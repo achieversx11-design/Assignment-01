@@ -1,2 +1,10 @@
 # Assignment-01
-Assignment-01 Solutions
+
+This repository contains solutions for Assignment-01.
+
+## Language Used
+- Java
+
+## Problems
+- Problem 1
+- Problem 2
