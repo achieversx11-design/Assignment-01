@@ -6,5 +6,5 @@ This repository contains solutions for Assignment-01.
 - Java
 
 ## Problems
-- Problem 1
-- Problem 2
+- Problem 1: Cyclic Substring Maximum Sum
+- Problem 2: Array Transformation Cost Minimization
